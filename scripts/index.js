@@ -100,6 +100,7 @@
 // console.log(`There are ${notTvCharacters.length} characters not the TV show...`);
 
 // How many characters named Targaryen?
+// 49
 
 let arrayTarg = [];
 characters.forEach(function(character){
